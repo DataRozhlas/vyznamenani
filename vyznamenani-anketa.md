@@ -1,6 +1,6 @@
 # Gödel, Trumpová, Mucha, Lendl. Koho z přehlédnutých Čechoslováků byste doporučili k vyznamenání?
 
-##Mezinárodní vědecký tým srovnal významnost milionů slavných osobností. Podívejte se na žebříček českých a československých občanů a hlasujte, kdo z dosud nevyznamenaných by si zasloužil vyznamenání.
+## Mezinárodní vědecký tým srovnal významnost milionů slavných osobností. Prohlédněte si žebříček těch českých a československých a hlasujte, kdo z dosud nevyznamenaných by si zasloužil vyznamenání.
 
 V pátek 28. října udělí prezident Miloš Zeman ve Vladislavském sále Pražského hradu státní vyznamenání několika desítkám českých i zahraničních osobností. Pokud neporuší zvyklosti a nevyužije i druhý z takzvaných řádových dní, kterým bude 1. leden, metálová bilance třetího prezidenta samostatné České republiky se uzavře. Druhý mandát mu totiž končí v březnu 2023.
 
@@ -42,15 +42,7 @@ Zdůrazněme, že dataset nejde filtrovat podle vnímané národnosti, ale jen p
 
 
 
-Tabulka dvanácti nejvýznamějších Čechů a Češek, kteří dosud nezískali české ani československé státní vyznamenání a buď žijí, nebo nejsou po smrti déle než 88 let, vypadá takto.
-
-
-
-__tabulka2
-
-
-
-Kdo z nich by si podle vás jeden ze dvou řádů či alespoň Medaili za zásluhy zasloužil nejvíce? Zachováváme původní pořadí podle spočítané významnosti:
+Toto je dvanáct papírově nejvýznamějších Čechů a Češek, kteří dosud nezískali české ani československé státní vyznamenání a buď žijí, nebo nejsou po smrti déle než 88 let. Kdo z nich by si podle vás jeden ze dvou řádů či alespoň Medaili za zásluhy zasloužil nejvíce? Zachováváme původní pořadí podle spočítané významnosti:
 
 1.  Thomas Mann. Německý prozaik získal v roce 1929 Nobelovu cenu za literaturu. Po nástupu nacistů k moci odešel do exilu, Československým občanem se stal v roce 1936 díky udělení domovského práva v Proseči. Zemřel v roce 1955 ve Švýcarsku.
 2.  Kurt Gödel. „Nejvýznamější logik po Aristotelovi“ vyrůstal v německy mluvící židovské rodině v Brně, odkud odešel na univerzitu do Vídně a později do Ameriky, kde zemřel v roce 1978.
