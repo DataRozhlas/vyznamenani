@@ -34,6 +34,10 @@ ___graf stacked bar chart po letech, třídy a skupiny
 
 
 
+___CITACE EXPERT: PROČ SE 93 A 94 NEMEDAILOVALO
+
+
+
 Nově vzniklá Česká republika si první ceremoniál odbyla až v říjnu 1995. Jejím prezidentem byl v té době Václav Havel, jehož metálový rukopis se od rukopisu jeho nástupců liší mimo jiné v tom, že nejvíce vyznamenání, především Medailí Za zásluhy, rozdal v posledním roce svého prvního i druhého funkčního období.
 
 
