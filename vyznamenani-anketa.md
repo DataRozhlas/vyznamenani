@@ -1,8 +1,8 @@
 # Gödel, Trumpová, Mucha, Lendl. Koho z přehlédnutých Čechoslováků byste doporučili k vyznamenání?
 
-## Mezinárodní vědecký tým srovnal významnost milionů slavných osobností. Prohlédněte si žebříček těch českých a československých a hlasujte, kdo z dosud nevyznamenaných by si zasloužil vyznamenání.
+## Mezinárodní vědecký tým vyčíslil významnost milionů slavných osobností. Prohlédněte si žebříček těch českých a československých a hlasujte, kdo z dosud nevyznamenaných by si zasloužil vyznamenání.
 
-V pátek 28. října udělí prezident Miloš Zeman ve Vladislavském sále Pražského hradu státní vyznamenání několika desítkám českých i zahraničních osobností. Pokud neporuší zvyklosti a nevyužije i druhý z takzvaných řádových dní, kterým bude 1. leden, metálová bilance třetího prezidenta samostatné České republiky se uzavře. Druhý mandát mu totiž končí v březnu 2023.
+V pátek 28. října udělí prezident Miloš Zeman ve Vladislavském sále Pražského hradu státní vyznamenání několika desítkám českých i zahraničních osobností. Pokud neporuší zvyklosti a nevyužije i druhý z takzvaných řádových dní, kterým bude 1. leden, metálová bilance třetího prezidenta samostatné České republiky se tím uzavře. Druhý mandát mu končí v březnu 2023.
 
 
 
@@ -10,7 +10,7 @@ Až bude znám kompletní seznam nově vyznamenaných, datový tým Českého ro
 
 
 
-Významnost byla vždy subjektivní kategorií. Změnit se to pokusil mezinárodní tým pěti vědců a jedné vědkyně, ekonomů a informatiků, kteří v červnu publikovali v časopisu _Nature_ článek [Křížově ověřená databáze významných lidí, od roku 3500 př. n. l. do roku 2018](https://www.nature.com/articles/s41597-022-01369-4). Popisují v něm metodu, skrze kterou lze významnost žijící či historické osobnosti vyjádřit jediným číslem. To je pak možné srovnávat s vyčíslenou významností ostatních. Do složeného ukazatele počítají:
+Významnost byla vždy subjektivní kategorií. Změnit se to pokusil mezinárodní tým pěti vědců a jedné vědkyně, ekonomů a informatiků, kteří v červnu publikovali v časopisu _Nature_ článek [Křížově ověřená databáze významných lidí, od roku 3500 př. n. l. do roku 2018](https://www.nature.com/articles/s41597-022-01369-4). Popisují v něm metodu, díky které lze významnost žijící či historické osobnosti vyjádřit jediným číslem. To je pak možné srovnávat s vyčíslenou významností ostatních. Do složeného ukazatele počítají:
 
 1.  V kolika jazycích má konkrétní osobnost heslo na Wikipedii.
 2.  Jak velký rozsah mají její životopisy na Wikipedii a Wikidatech.
@@ -38,7 +38,7 @@ Zdůrazněme, že dataset nejde filtrovat podle vnímané národnosti, ale jen p
 
 
 
-Část z osobností v seznamu již státní vyznamenání dostala. Část zbývajících je zase už příliš dlouho po smrti. Zákony sice žádnou lhůtu pro udělování řádů či medailí in memoriam nestanovují, v historii samostatného Česka se však při udílení nejvyššího vyznamenání, Řádu Bílého lva, jen dvakrát vracelo až před druhou světovou válku. Miloš Zeman jím v roce 2018 vyznamenal československého premiéra Antonína Švehlu, který zemřel v roce 1933, a legionářského generála Stanislava Čečka, který podlehl dlouhodobým následkům zranění z bojů ještě o tři roky dříve.
+Část z osobností v seznamu již státní vyznamenání dostala. Část zbývajících je zase už příliš dlouho po smrti. Zákony sice žádnou lhůtu pro udělování řádů či medailí in memoriam nestanovují, v historii samostatného Česka se však při udílení nejvyššího vyznamenání, Řádu Bílého lva, jen dvakrát vracelo až před druhou světovou válku. Miloš Zeman řádem v roce 2018 vyznamenal československého premiéra Antonína Švehlu, který zemřel v roce 1933, a legionářského generála Stanislava Čečka, který podlehl dlouhodobým následkům zranění z bojů ještě o tři roky dříve, tedy 88 let před oceněním.
 
 
 
@@ -47,8 +47,8 @@ Toto je dvanáct papírově nejvýznamějších Čechů a Češek, kteří dosud
 1.  Thomas Mann. Německý prozaik získal v roce 1929 Nobelovu cenu za literaturu. Po nástupu nacistů k moci odešel do exilu, Československým občanem se stal v roce 1936 díky udělení domovského práva v Proseči. Zemřel v roce 1955 ve Švýcarsku.
 2.  Kurt Gödel. „Nejvýznamější logik po Aristotelovi“ vyrůstal v německy mluvící židovské rodině v Brně, odkud odešel na univerzitu do Vídně a později do Ameriky, kde zemřel v roce 1978.
 3. Ivana Trumpová, rozená Zelníčková. Lyžařka a magistra tělesné výchovy z Univerzity Karlovy byla v letech 1977 až 1992 provdaná za amerického magnáta a budoucího prezidenta Donalda Trumpa. Podobně jako Trump podnikala v hoteliérství. Zemřela letos v červenci.
-4. Alfons Mucha. Malíř, grafik a designér byl vedle ikonických plakátů autorem Slovanské epopeje. Zemřel v roce 1939, pomyslnou hranici 88 let by tedy ani jeho vyznamenání neprolomilo.
-5. Ivan Lendl. Tenista, vítěz osmi grandslamů ve dvouhře. V roce 1986 emigroval do Spojených států. Ze stále žijících neoceněných má nejvyšší vědci vyčíslenou významnost.
+4. Alfons Mucha. Malíř, grafik a designér byl vedle ikonických plakátů autorem Slovanské epopeje. Zemřel v roce 1939, hranici 88 let by tedy ani jeho vyznamenání neprolomilo.
+5. Ivan Lendl. Tenista, vítěz osmi grandslamů ve dvouhře. V roce 1986 emigroval do Spojených států. Má nejvyšší vědci vyčíslenou významnost ze stále žijících neoceněných.
 6. Tomáš Garrigue Masaryk. Kovářova kobyla: jeho jméno nese nejvyšší československé a později české státní vyznamenání, sám jím oceněn nebyl.
 7. Tomáš Rosický. Fotbalový záložník a reprezentant.
 8. Tomáš Berdych. Tenista.
