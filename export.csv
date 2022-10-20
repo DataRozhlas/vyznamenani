@@ -588,7 +588,7 @@ index,stat,vyznamenani,jmeno,rok,rank,retez,skupina,inmemoriam,pohlavi,prezident
 12,cr,rad-bileho-lva,Jacques Chirac,1997.0,1.0,True,občanská,False,muz,Havel,586
 45,cr,rad-bileho-lva,Jean-Philippe Douin,1997.0,3.0,False,vojenská,False,muz,Havel,587
 77,cr,rad-bileho-lva,Jindřich Macháček,1997.0,4.0,False,vojenská,False,muz,Havel,588
-96,cr,rad-bileho-lva,Josef Robotka,1997.0,3.0,False,vojenská,False,muz,Havel,589
+96,cr,rad-bileho-lva,Josef Robotka,1997.0,3.0,False,vojenská,True,muz,Havel,589
 92,cr,rad-bileho-lva,Karel J. Procházka,1997.0,4.0,False,vojenská,False,muz,Havel,590
 33,cr,rad-bileho-lva,Madeleine K. Albrightová,1997.0,1.0,False,občanská,False,zena,Havel,591
 93,cr,rad-bileho-lva,Radovan Procházka,1997.0,4.0,False,vojenská,False,muz,Havel,592

@@ -93,7 +93,7 @@ cr,rad-bileho-lva,Karel J. Procházka,nan,nan,1905,1999,1997.0,4.0,False,vojensk
 cr,rad-bileho-lva,Radovan Procházka,nan,nan,1927,2020,1997.0,4.0,False,vojenská,False,muz,Havel
 cr,rad-bileho-lva,Pravomil L. Raichl,nan,nan,1921,2002,2000.0,5.0,False,vojenská,False,muz,Havel
 cr,rad-bileho-lva,Ronald Reagan,39.705551,20,1911.0,2004.0,1999.0,1.0,False,občanská,False,muz,Havel
-cr,rad-bileho-lva,Josef Robotka,nan,nan,1906,1952,1997.0,3.0,False,vojenská,False,muz,Havel
+cr,rad-bileho-lva,Josef Robotka,nan,nan,1906,1952,1997.0,3.0,False,vojenská,True,muz,Havel
 cr,rad-bileho-lva,Chanan Rozen,nan,nan,1918,2013,1998.0,4.0,False,občanská,False,muz,Havel
 cr,rad-bileho-lva,John M. D. Shalikashvili,27.206291,70053.0 ,1936.0,2011.0,1998.0,3.0,False,vojenská,False,muz,Havel
 cr,rad-bileho-lva,Jaroslav Selner,nan,nan,1906,1973,2019.0,1.0,False,vojenská,True,muz,Zeman
@@ -120,7 +120,7 @@ cr,rad-bileho-lva,Thomas Ray Wilson,18.984396,1397787.0,1946,nan,2002.0,3.0,Fals
 cr,rad-bileho-lva,Jiří Zenáhlík,nan,nan,1921,nan,2008.0,1.0,False,vojenská,False,muz,Klaus
 cr,rad-bileho-lva,Helmut Zilk,27.068069,46449.0,1927.0,2008.0,2019.0,1.0,False,občanská,True,muz,Zeman
 csfr,rad-bileho-lva,François Mitterrand,35.902332,470.0,1916.0,1996.0,1990.0,1.0,False,,False,muz,Havel
-csfr,rad-bileho-lva,Vladimír Krajina,22.397926,240550.0,1905,1933,1990.0,1.0,False,,False,muz,Havel
+csfr,rad-bileho-lva,Vladimír Krajina,22.397926,240550.0,1905,1993,1990.0,1.0,False,,False,muz,Havel
 csfr,rad-bileho-lva,Zdena Salivarová - Škvorecká,22.676586,224787.0,1933.0,nan,1990.0,3.0,False,,False,zena,Havel
 csfr,rad-bileho-lva,H. G. Skilling,20.104029,495709.5,1912.0,2001.0,1992.0,3.0,False,,False,muz,Stráský
 csfr,rad-bileho-lva,Josef Škvorecký,28.360466,24888.0,1924.0,2012.0,1990.0,3.0,False,,False,muz,Havel
