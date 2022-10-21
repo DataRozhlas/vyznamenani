@@ -1,4 +1,4 @@
-# Havel elitu, Klaus žijící a ženy, Zeman __. Jak vyznamenávali čeští prezidenti
+# Havel elitu, Klaus žijící a ženy, Zeman nejvýše. Jak vyznamenávali čeští prezidenti
 
 ## ___
 
@@ -6,33 +6,37 @@ Prezident Miloš Zeman rozdal 28. října ve Vladislavském sále Pražského hr
 
 
 
-Naskytuje se proto příležitost zrekapitulovat, čím a koho jednotlivé hlavy státu vyznamenávaly. ___
+Naskytuje se proto příležitost zrekapitulovat, čím a koho jednotlivé hlavy státu vyznamenávaly. Od roku 1995, kdy se státní vyznamenání samostatné České republiky předávala poprvé, jich Václav Havel, Václav Klaus a Miloš Zeman udělili celkem 1080x, a to 1069x různým lidem.
 
 ## __
 
-Nejvyšším českým státním vyznamenáním je Řád Bílého lva. Českým občanům jej prezident propůjčuje za „zvláště vynikající zásluhy o stát“ a zahraničním uděluje za „za zvláště vynikající zásluhy ve prospěch České republiky“. Jde zároveň o vyznamenání, kterým se nejvíc šetří, a které se nejčastěji – ve víc než třetině případů – uděluje in memoriam. Od roku 1993 jej získalo xx osobností, z toho jen xx žijících. Nezaplnili by ani jednu tramvaj T3.
+Nejvyšším českým státním vyznamenáním je Řád Bílého lva. Českým občanům jej prezident propůjčuje za „zvláště vynikající zásluhy o stát“ a zahraničním uděluje za „za zvláště vynikající zásluhy ve prospěch České republiky“. Jde zároveň o vyznamenání, kterým se nejvíc šetří, a které se nejčastěji – ve víc než třetině případů – uděluje in memoriam. Od roku 1993 jej získalo 119 osobností, z toho jen 73x žijících.
 
 
 
-Následuje Řád Tomáše Garrigua Masaryka pro osoby, „které se vynikajícím způsobem zasloužily o rozvoj demokracie, humanity a lidská práva“. Takových čeští prezidenti našli xx. Medaili Za hrdinství udělili xx lidem a Medaili Za zásluhy xx. Toto nižší vyznamenání zároveň nejčastěji udělovali žijícím osobnostem – potěšit se jím mohlo osm z devíti vyznamenaných.
+GRAF1_lev
 
 
 
-Zajímavější řez než po jednotlivých vyznamenáních však můžeme vést po jednotlivých letech, potažmo funkčních obdobích prezidentů.
+Následuje Řád Tomáše Garrigua Masaryka pro osoby, „které se vynikajícím způsobem zasloužily o rozvoj demokracie, humanity a lidská práva“. Takových čeští prezidenti našli 187x. Medaili Za hrdinství udělili 137x lidem a Medaili Za zásluhy 634x. Toto nižší vyznamenání zároveň nejčastěji udělovali žijícím osobnostem – potěšit se jím mohlo osm z devíti vyznamenanýchx.
 
 
 
-Počítáme-li ještě porevoluční Československo, rekordních 262 osobností se dočkalo vyznamenání v roce 1992. Demokratický režim stejně jako o rok dříve (153 vyznamenaných) alespoň symbolicky napravoval historické křivdy a ve velkém oceňoval především ty, které komunistický režim perzekuoval nebo vyhnal ze země. 
+Poučnější řez než po jednotlivých vyznamenáních však můžeme vést po jednotlivých letech, potažmo funkčních obdobích jednotlivých prezidentů.
+
+
+
+GRAF4_stacked_bar
+
+
+
+Počítáme-li ještě porevoluční Československo, rekordních 262 osobností se dočkalo vyznamenání v roce 1992. Demokratický režim tehdy stejně jako o rok dříve (153 vyznamenaných) alespoň symbolicky napravoval historické křivdy a ve velkém oceňoval především ty, které komunistický režim perzekuoval nebo vyhnal ze země. 
 
 
 
 Kuriozitou je, že právě rok 1992 byl jediným, kdy vyznamenání neuděloval prezident. Federálnímu shromáždění se v létě nepodařilo zvolit hlavu rozpadajícího se Československa a prezidentské pravomoci včetně této čestné převzal předseda vlády Jan Stráský. 
 
-## Důlek Václava Klause
-
-___graf stacked bar chart po letech, třídy a skupiny
-
-
+## ___
 
 ___CITACE EXPERT: PROČ SE 93 A 94 NEMEDAILOVALO
 
@@ -42,11 +46,7 @@ Nově vzniklá Česká republika si první ceremoniál odbyla až v říjnu 1995
 
 
 
-___CITACE PROČ
-
-
-
-V roce 2003 vystřídal Havla na Pražském hradě Václav Klaus. Nejvíce osobností, 57, vyznamenal hned 28. října téhož roku. Pak přibrzdil a ve zbylých devíti letech mandátu jich bez výrazných výkyvů udělil v průměru 23, nejméně ze všech prezidentů.
+V roce 2003 vystřídal Havla na Pražském hradě Václav Klaus. Nejvíce osobností, 57, vyznamenal hned 28. října téhož roku. Pak zpomalil a ve zbylých devíti letech mandátu jich bez výrazných výkyvů udělil v průměru 23, nejméně ze všech prezidentů.
 
 
 
@@ -62,7 +62,15 @@ Od roku 2013 o vyznamenaných rozhoduje první přímo volený prezident Miloš 
 
 
 
+GRAF5_třídy_stupně
+
+
+
 Při vyznamenávání Řádem Bílého lva se Zeman pouštěl nejdále do minulosti, v případech premiéra Antonína Švehly a legionářského generála Stanislava Čečka dokonce až před začátek druhé světové války.
+
+
+
+GRAF2_jak_dlouho_po_smrti
 
 
 
@@ -70,23 +78,19 @@ Zeman jako jediný vyznamenával osobnosti, které již byly nositeli českého 
 
 
 
-Dodejme, že celkem Miloš Zeman vyznamenal xx osobností. Produktivitu měl v tomto ohledu ve srovnání s Václavem Havlem poloviční, naopak se ale činil o třetinu více než Václav Klaus.
+Dodejme, že celkem Miloš Zeman vyznamenal xx osobností. Produktivitu měl v tomto ohledu ve srovnání s Václavem Havlem polovičníx, naopak se ale činil o třetinux více než Václav Klaus.
 
 ## ___
 
-Výběr konkrétních osobností pravidelně vyvolává debaty o tom, nakolik si vyznamenání zaslouží: letos takovouto kontroverzi vyvolal ____ pro bratry Mašíny. Míru zásluh o stát či o posilování demokracie a lidských práv nejde vyjádřit objektivním číselným ukazatelem, vždy zůstane věcí názoru a politického přesvědčení. 
+Výběr konkrétních osobností pravidelně vyvolává debaty o tom, nakolik si vyznamenání zaslouží x. Míru zásluh o stát či o posilování demokracie a lidských práv nejde vyjádřit objektivním číselným ukazatelem, vždy zůstane věcí názoru a politického přesvědčení. 
 
 
 
-V červnu však v časopisu _Nature_ vyšel článek [Křížově ověřená databáze významných lidí, od roku 3500 př. n. l. do roku 2018](https://www.nature.com/articles/s41597-022-01369-4), ve kterém se mezinárodní tým vědců pokouší o něco volně souvisejícího: spočítat významnost osobností posledních pěti a půl tisíce let. Jejich metoda má jednoduchý princip: čím více práce věnovali editoři a editorky Wikipedie a souvisejících webů heslu konkrétní osobnosti, tím je tato osobnost významější. Blíže jsme algoritmus vysvětlili v ___ článku.
+V červnu však v časopisu _Nature_ vyšel článek [Křížově ověřená databáze významných lidí, od roku 3500 př. n. l. do roku 2018](https://www.nature.com/articles/s41597-022-01369-4), ve kterém se mezinárodní tým vědců pokouší vyčíslit významnost největších osobností historie lidstva. Jejich metoda je v jádru jednoduchá: čím více práce věnovali editoři a editorky Wikipedie a souvisejících webů heslu konkrétní osobnosti, tím je tato osobnost významější. Blíže jsme algoritmus vysvětlili v anketě [Gödel, Trumpová, Lendl. Kdo z přehlédnutých Čechoslováků si zaslouží vyznamenání?](https://www.irozhlas.cz/veda-technologie/historie/vyznamenani-anketa_2210210600_ksp)](https://www.irozhlas.cz/veda-technologie/historie/vyznamenani-anketa_2210210600_ksp). V té mimochodem zvítězil Kurt Gödel před Tomášem Garrigue Masarykem a Tomem Stoppardem.
 
 
 
-Datový tým Českého rozhlasu propojil vědci zveřejněný dataset dvou milionu významných lidí se seznamem osobností vyznamenaných Řádem Bílého lva.
-
-
-
-Pouze Václav Havel udělil nejvyšší státní vyznamenání lidem, kteří podle tvůrců datasetu patřili mezi tisíc nejvýznamějších osobností všech dob. V roce 1999 dokonce sedmi z nich najednou: při příležitosti desátého výročí Sametové revoluce od něj dostali Řád Bílého lva američtí exprezidenti George Bush a Ronald Reagan, sovětský exprezident Michail Gorbačov, německý exkancléř Helmut Kohl, britská expremiérka Margaret Thatcher, polský exprezident Lech Wałęsa a francouzský exprezident François Mitterrand. Pouze za posledního, vyznamenaného již in memoriam, si řád převzala manželka, ostatní se dostavili osobně.
+Datový tým Českého rozhlasu propojil vědci zveřejněný dataset dvou milionu významných lidí se seznamem osobností vyznamenaných po revoluci Řádem Bílého lva. Pouze Václav Havel udělil nejvyšší státní vyznamenání lidem, kteří podle tvůrců datasetu patřili mezi tisíc nejvýznamějších osobností všech dob. V roce 1999 dokonce sedmi z nich najednou: při příležitosti desátého výročí Sametové revoluce od něj dostali Řád Bílého lva američtí exprezidenti George Bush a Ronald Reagan, sovětský exprezident Michail Gorbačov, německý exkancléř Helmut Kohl, britská expremiérka Margaret Thatcher, polský exprezident Lech Wałęsa a francouzský exprezident François Mitterrand. Pouze za posledního, vyznamenaného již in memoriam, si řád převzala manželka, ostatní se dostavili osobně.
 
 
 
@@ -95,6 +99,10 @@ Seřadíme-li seznam vyznamenaných podle indexu významnosti, kteří jim vědc
 
 
 __tabulka
+
+
+
+__CITACE EXPERT NENÍ TO FUNKCE PREZIDENTŮ, ALE HISTORIE
 
 
 
@@ -108,4 +116,4 @@ __konec: Zelenský
 
 ### Zdroje
 
-Datový tým Českého rozhlasu při analýze vycházel ze seznamů vyznamenaných na oficiálních stránkách Pražského hradu. V těch nalezl několik nepřesností: u Alfreda Duffa Coopera, Lecha Aleksandera Kaczyńského ani George S. Pattona hradní stránky nezmiňují, že byli vyznamenání in memoriam. Mezi vyznamenanými Medailí Za zásluhy uvádějí pplk. Ing. Aleše Weitera (2017), o němž však v souvislosti s vyznamenáními neexistuje zmínka mimo tento seznam. Odhalené nepřesnosti jsme v datasetu, ze kterého článek a vizualizace vycházejí, opravili.
+Datový tým Českého rozhlasu při analýze vycházel ze [seznamů vyznamenaných](https://www.hrad.cz/cs/ceska-republika/statni-vyznamenani) na oficiálních stránkách Pražského hradu.
