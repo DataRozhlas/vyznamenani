@@ -1,4 +1,22 @@
-# Havel elitu, Klaus žijící a ženy, Zeman nejvýše. Jak vyznamenávali čeští prezidenti
+neděle
+
+- citace: Zemanův chlapík
+- check čísel od Zemanova chlapíka
+- citace z diplomky/archivu: 1994 a 1995
+- citace Zeman: proč první třída
+- upozornit na 1. třídu Dominika Duky
+- jediný Jan Kačer v řádový den něco jiného než 1
+- státní návštěvy i neřádové dny!!
+- kdo dává podněty
+- tabulku
+
+pondělí/úterý
+
+- citace: klaus
+- citace: expert
+- napsat Janu Kačerovi
+
+# Havel elitu, Klaus žijící a ženy, Zeman první třídou. Jak vyznamenávali čeští prezidenti
 
 ## ___
 
@@ -42,7 +60,7 @@ ___CITACE EXPERT: PROČ SE 93 A 94 NEMEDAILOVALO
 
 
 
-Nově vzniklá Česká republika si první ceremoniál odbyla až v říjnu 1995. Jejím prezidentem byl v té době Václav Havel, jehož metálový rukopis se od rukopisu jeho nástupců liší mimo jiné v tom, že nejvíce vyznamenání, především Medailí Za zásluhy, rozdal v posledním roce svého prvního i druhého funkčního období.
+Nově vzniklá Česká republika si první ceremoniál odbyla až v říjnu 1995. Jejím prezidentem byl v té době Václav Havel, ___o havlovi
 
 
 
@@ -116,4 +134,4 @@ __konec: Zelenský
 
 ### Zdroje
 
-Datový tým Českého rozhlasu při analýze vycházel ze [seznamů vyznamenaných](https://www.hrad.cz/cs/ceska-republika/statni-vyznamenani) na oficiálních stránkách Pražského hradu.
+Datový tým Českého rozhlasu při analýze vycházel ze [seznamů vyznamenaných](https://www.hrad.cz/cs/ceska-republika/statni-vyznamenani) na oficiálních stránkách Pražského hradu. ___opravy
