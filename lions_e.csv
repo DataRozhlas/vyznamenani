@@ -14,7 +14,7 @@ cr,rad-bileho-lva,William Jefferson Clinton,38.609379,46,1946,nan,1998.0,1.0,Tru
 cr,rad-bileho-lva,Bohuslav Ečer,nan,nan,1893,1954,2019.0,1.0,False,vojenská,True,muz,Zeman
 cr,rad-bileho-lva,Heinz Fischer,31.420586,9806,1938,nan,2009.0,1.0,True,občanská,False,muz,Klaus
 cr,rad-bileho-lva,Jan Gajdoš,22.588617,243173,1903,1945,2018.0,1.0,False,občanská,True,muz,Zeman
-cr,rad-bileho-lva,Ivan Gašparovič,28.486383 ,48085,1941,nan,2013.0,1.0,True,občanská,False,muz,Zeman
+cr,rad-bileho-lva,Ivan Gašparovič,28.486383 ,48085,1941,nan,2013.0,1.0,True,občanská,False,muz,Klaus
 cr,rad-bileho-lva,Joachim Gauck,33.688496,3779,1940,nan,2014.0,1.0,True,občanská,False,muz,Zeman
 cr,rad-bileho-lva,Karel Gott,31.278296,8761,1939,2019,2020.0,1.0,False,občanská,True,muz,Zeman
 cr,rad-bileho-lva,Alexander Hess,nan,nan,1898,1981,2021.0,1.0,False,vojenská,True,muz,Zeman
@@ -43,7 +43,7 @@ cr,rad-bileho-lva,Otakar Černý,nan,nan,1919,2009,2009.0,1.0,False,vojenská,Tr
 cr,rad-bileho-lva,Antonín Mikuláš Číla,nan,nan,1883,1983,1998.0,2.0,False,vojenská,True,muz,Havel
 cr,rad-bileho-lva,Václav Djačuk,nan,nan,1920,2015,2011.0,5.0,False,vojenská,False,muz,Klaus
 cr,rad-bileho-lva,Jean-Philippe Douin,21.753641,401421,1940,2016,1997.0,3.0,False,vojenská,False,muz,Havel
-cr,rad-bileho-lva,Alexander Dubček,32.49889,3615,1921,1992,2003.0,1.0,False,občanská,True,muz,Klaus
+cr,rad-bileho-lva,Alexander Dubček,32.49889,3615,1921,1992,2003.0,1.0,False,občanská,True,muz,Havel
 cr,rad-bileho-lva,Josef Duda,nan,nan,1905,1977,2002.0,3.0,False,vojenská,True,muz,Havel
 cr,rad-bileho-lva,Dominik kardinál Duka OP,27.130377,71048,1943,nan,2016.0,3.0,False,občanská,False,muz,Zeman
 cr,rad-bileho-lva,Alois Eliáš,27.110500,51954,1890,1942,1996.0,1.0,False,vojenská,True,muz,Havel
@@ -86,7 +86,7 @@ cr,rad-bileho-lva,George S. Patton,35.114647 ,1277.0,1885.0,1945.0,1998.0,4.0,Fa
 cr,rad-bileho-lva,Rudolf Pernický,19.767851,584814.5,1915.0,2005.0,2005.0,1.0,False,vojenská,False,muz,Klaus
 cr,rad-bileho-lva,František Peřina,23.402201,212461.0,1911.0,2006.0,1997.0,4.0,False,vojenská,False,muz,Havel
 cr,rad-bileho-lva,Felix Peřka,nan,nan,1924,2005,1995.0,3.0,False,vojenská,False,muz,Havel
-cr,rad-bileho-lva,Anton Petrák,nan,nan,1912,2009,2003.0,1.0,False,vojenská,False,muz,Klaus
+cr,rad-bileho-lva,Anton Petrák,nan,nan,1912,2009,2003.0,1.0,False,vojenská,False,muz,Havel
 cr,rad-bileho-lva,Karel Pezl,18.83499,770032.0,1927,nan,2017.0,1.0,False,vojenská,False,muz,Zeman
 cr,rad-bileho-lva,Jan Plovajko,nan,nan,1922,2020,2010.0,3.0,False,vojenská,False,muz,Klaus
 cr,rad-bileho-lva,Karel J. Procházka,nan,nan,1905,1999,1997.0,4.0,False,vojenská,False,muz,Havel

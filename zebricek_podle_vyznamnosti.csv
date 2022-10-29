@@ -1,26 +1,51 @@
-,index,rok,jmeno,prezident
-0,93,1999.0,Ronald Reagan,Havel
-1,11,1998.0,William Jefferson Clinton,Havel
-2,107,1999.0,Margaret Thatcherová,Havel
-3,53,1999.0,Michail Sergejevič Gorbačov,Havel
-4,39,1999.0,George Bush,Havel
-5,1,1996.0,Alžběta II.,Havel
-6,10,1997.0,Jacques Chirac,Havel
-7,77,1999.0,François Mitterrand,Havel
-8,65,1999.0,Helmut Kohl,Havel
-9,35,2000.0,Willy Brandt,Havel
-10,114,1999.0,Lech Walesa,Havel
-11,6,1995.0,Juan Carlos I.,Havel
-12,57,2003.0,Václav Havel,Klaus
-13,83,1998.0,George S. Patton,Havel
-14,98,2017.0,Gerhard Fritz Kurt Schröder,Zeman
-15,82,2000.0,Olof Joachim Palme,Havel
-16,31,1997.0,Madeleine K. Albrightová,Havel
-17,116,1999.0,Simon Wiesenthal,Havel
-18,0,2015.0,Abdullah II. bin Al Hussein,Zeman
-19,115,2003.0,Richard von Weizsäcker,Klaus
-20,44,2003.0,Alexander Dubček,Klaus
-21,16,2014.0,Joachim Gauck,Zeman
-22,23,2019.0,Václav Klaus,Zeman
-23,27,2000.0,Johannes Rau,Havel
-24,69,2000.0,Bruno Kreisky,Havel
+,index,rok,jmeno,zebricek,prezident
+0,93,1999.0,Ronald Reagan,20.0,Havel
+1,11,1998.0,William Jefferson Clinton,46.0,Havel
+2,107,1999.0,Margaret Thatcherová,144.0,Havel
+3,53,1999.0,Michail Sergejevič Gorbačov,147.0,Havel
+4,39,1999.0,George Bush,178.0,Havel
+5,1,1996.0,Alžběta II.,419.0,Havel
+6,10,1997.0,Jacques Chirac,445.0,Havel
+7,77,1999.0,François Mitterrand,470.0,Havel
+8,65,1999.0,Helmut Kohl,612.0,Havel
+9,35,2000.0,Willy Brandt,633.0,Havel
+10,114,1999.0,Lech Walesa,801.5,Havel
+11,6,1995.0,Juan Carlos I.,1019.0,Havel
+12,57,2003.0,Václav Havel,1071.5,Klaus
+13,83,1998.0,George S. Patton,1277.0,Havel
+14,98,2017.0,Gerhard Fritz Kurt Schröder,1469.0,Zeman
+15,82,2000.0,Olof Joachim Palme,1616.0,Havel
+16,31,1997.0,Madeleine K. Albrightová,1688.0,Havel
+17,116,1999.0,Simon Wiesenthal,1793.0,Havel
+18,0,2015.0,Abdullah II. bin Al Hussein,1917.0,Zeman
+19,115,2003.0,Richard von Weizsäcker,3024.0,Klaus
+20,44,2003.0,Alexander Dubček,3615.0,Havel
+21,16,2014.0,Joachim Gauck,3779.0,Zeman
+22,23,2019.0,Václav Klaus,5727.0,Zeman
+23,27,2000.0,Johannes Rau,5823.0,Havel
+24,69,2000.0,Bruno Kreisky,6113.0,Havel
+25,21,2010.0,Lech Aleksander Kaczyński,6440.5,Klaus
+26,102,1998.0,Javier Solana,7739.0,Havel
+27,17,2020.0,Karel Gott,8761.0,Zeman
+28,13,2009.0,Heinz Fischer,9806.0,Klaus
+29,9,2016.0,Andrzej Duda,11227.0,Zeman
+30,54,2003.0,Árpád Göncz,12342.0,Klaus
+31,24,2004.0,Aleksander Kwasniewsky,12352.0,Klaus
+32,30,1996.0,Ezer Weizman,15622.0,Havel
+33,49,2014.0,Robert Fico,15775.5,Zeman
+34,76,1998.0,Joachim kardinál Meisner,16922.0,Havel
+35,112,2014.0,Franz Vranitzký,21551.0,Zeman
+36,26,2017.0,Borut Pahor,30551.0,Zeman
+37,8,2021.0,Alfred Duff Cooper,32999.0,Zeman
+38,58,2017.0,Michael Häupl,37893.0,Zeman
+39,28,2021.0,Vladimír Remek,38734.0,Zeman
+40,99,2019.0,Rudolf Schuster,42180.0,Zeman
+41,119,2019.0,Helmut Zilk,46449.0,Zeman
+42,15,2013.0,Ivan Gašparovič,48085.0,Klaus
+43,47,1996.0,Alois Eliáš,51954.0,Havel
+44,51,1996.0,J.E. Bernardin kardinál Gantin,55953.5,Havel
+45,29,2018.0,Antonín Švehla,63483.0,Zeman
+46,96,1998.0,John M. D. Shalikashvili,70053.0,Havel
+47,46,2016.0,Dominik kardinál Duka OP,71048.0,Zeman
+48,5,2021.0,Jiřina Bohdalová,78695.0,Zeman
+49,48,2004.0,František Fajtl,122172.0,Klaus
